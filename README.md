@@ -10,7 +10,7 @@
 
 # Specs
 
-- CPU: i5-3570k (4th Gen) Ivy Bridge
+- CPU: i5-3570k (3rd Gen) Ivy Bridge
 - GPU: MSI RX570 Gaming X 4G
 - RAM: 12GB DDR3
 - Motherboard Make and Model: Asus P8Z77-V LX
